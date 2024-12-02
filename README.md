@@ -6,9 +6,9 @@
 </div>
 
 <div align="center">
-  <img align="left" height="160" src="https://i.imgflip.com/9caila.gif"  />
-  <img align="left" height="160" src="https://i.imgflip.com/9caisf.gif"  />
-  <img align="left" height="160" src="https://i.imgflip.com/9caila.gif"  />
-  <img align="left" height="160" src="https://i.imgflip.com/9caisf.gif"  />
-  <img align="left" height="160" src="https://i.imgflip.com/9caila.gif"  />
+  <img align="center" height="160" src="https://i.imgflip.com/9caila.gif"  />
+  <img align="center" height="160" src="https://i.imgflip.com/9caisf.gif"  />
+  <img align="center" height="160" src="https://i.imgflip.com/9caila.gif"  />
+  <img align="center" height="160" src="https://i.imgflip.com/9caisf.gif"  />
+  <img align="center" height="160" src="https://i.imgflip.com/9caila.gif"  />
 </div>
